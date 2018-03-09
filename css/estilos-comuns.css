@@ -2,23 +2,15 @@ body {
 	background-image: url("../imagens/fundo.png");
 	margin-left: 10%;
 	margin-right: 10%;
+	font-family: "Arial", sans-serif;;
 }
 
-strong {
+h1 {
 	font-family: "Times New Roman";
 	color: #32CD32;
 	font-size: 28px;
 }
 
 p {
-  font-family: "Arial", sans-serif;
   text-align: justify;
-}
-
-q {
-	font-style: italic;
-}
-
-blockquote {
-	font-style: italic;
 }
